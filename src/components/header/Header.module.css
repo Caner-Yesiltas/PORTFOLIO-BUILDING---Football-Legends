@@ -1,0 +1,12 @@
+.title {
+  color: rgb(31, 4, 1);
+  background-color: rgba(240, 241, 242, 0.5);
+  padding: .3125rem;
+  border-radius: 1rem;
+  display: inline-block;
+}
+
+/* 1-) arka plana rgba ile opacity verdik backgrounda yazi daha iyi gozukebilsin diye
+    2-) h1 block element ama tum satiri kaplamasin diye displayine inline-block verdi zekice
+    
+*/
